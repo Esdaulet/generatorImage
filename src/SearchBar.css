@@ -1,0 +1,19 @@
+.searchbar {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+input {
+  width: 1050px;
+  height: 48px;
+  margin-left: 100px;
+  font-size: 20px;
+  color: blue;
+  font-weight: 800;
+}
+
+h1 {
+  margin-left: 100px;
+  color: white;
+  text-align: center;
+}
